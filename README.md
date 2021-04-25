@@ -10,8 +10,8 @@
 
 I'm a software engineer, with a can-do, on-time, and high-quality product spirit. I'm passionate about contributing to open-source projects to make the web a better place.
 
-<img align="right" src="https://github.com/Ghamry0x2/Ghamry0x2/blob/master/resources/horse.gif" width="198px">
-<!-- <img align="right" src="resources/showtime.gif" height="350px"> -->
+<img align="right" src="https://github.com/Ghamry0x2/Ghamry0x2/blob/master/resources/horse.gif" width="200px">
+<!-- <img align="right" src="https://github.com/Ghamry0x2/Ghamry0x2/blob/master/resources/showtime.gif" width="198px"> -->
 
 ```javascript
 const ghamry = {
@@ -27,8 +27,9 @@ const ghamry = {
     frontend: {
       js: ["ReactJS", "Angular"]
     },
+    stateManagement: ["Redux", "Providers", "BLoC"],
     databases: ["MongoDB", "MySQL"],
-    devOps: ["Nginx", "Docker🐳", "GCP", "AWS"],
+    devOps: ["Nginx", "Docker🐳", "GCP", "AWS", "Firebase"],
   },
   currentlyLearning: ["Blockchain"]
 };
@@ -41,9 +42,9 @@ const ghamry = {
 ## Find me around the web 🌎
 
 
-[<img alt="Ghamry0x2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="abdelrahmanelghamry | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img alt="AbdelrahmanELGhamry98 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img alt="Ghamry0x2 | LinkedIn" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="abdelrahmanelghamry | Instagram" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img alt="AbdelrahmanELGhamry98 | Facebook" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <!-- <details>
   <summary>:zap: Github Stats</summary>
